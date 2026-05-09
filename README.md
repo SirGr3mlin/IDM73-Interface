@@ -6,7 +6,6 @@
 Free PC software for RS PRO IDM73 and compatible digital multimeters.
 
 ---
-
 ## Description
 
 IDM73 Interface is a custom-built modern application designed to interface with IDM73-based digital multimeters across multiple brands via the IR RS232 communication interface.
@@ -21,13 +20,19 @@ The software provides real-time data capture, graphing, logging, and monitoring 
 - Configurable dark/light theme
 - Window position memory (multi-monitor support)
 
+## Screenshots
+
+![Main Interface](screenshots/screenshot-main.png)
+
+![Graph View](screenshots/screenshot-graph.png)
+
 ## Download
 
 **[⬇️ Download Latest Version](https://github.com/SirGr3mlin/IDM73-Interface/releases/latest)**
 
 ## How to Use
 1. Connect your IDM73-compatible device via IR RS232 / Optical interface.
-2. Select the correct COM port under "Connection".
+2. Right-click (on UI) and select the correct COM port under "Connection -> Ports".
 3. Click **Connect**.
 4. Data will begin streaming once a successful connection is established.
 
