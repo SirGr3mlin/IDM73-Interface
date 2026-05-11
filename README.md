@@ -38,7 +38,7 @@ The software provides real-time data capture, graphing, logging, and monitoring 
 
 ## Requirements
 - Windows 10 or 11 (64-bit)
-- IR RS232 / Optical interface cable
+- IR RS232 / Optical interface cable (⚠ DIY cable instructions/circuit to come.)
 
 > **Note:** This project has **not been tested** with the original interface cable (as I was unable to obtain one). Results may vary.
 
